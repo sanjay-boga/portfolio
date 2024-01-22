@@ -490,9 +490,6 @@ main { overflow-x: hidden; }
 .hero .btn-primary { margin-inline: auto; }
 
 
-
-
-
 /*-----------------------------------*\
  * #STATS
 \*-----------------------------------*/
@@ -645,8 +642,6 @@ main { overflow-x: hidden; }
 .skill-card {
   position: relative;
   background: var(--bg-secondary);
-  width: 80px;
-  height: 80px;
   display: grid;
   place-items: center;
   border-radius: var(--radius-12);
